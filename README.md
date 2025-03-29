@@ -1,4 +1,5 @@
-
+This is a quick project to test code kata, TDD philosophy
+Objective: create a CLI minesweeper game from scratch
 
 
 iterations
